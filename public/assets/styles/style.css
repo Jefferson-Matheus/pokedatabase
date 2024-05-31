@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to left, #000000, 	#00CED1);
+}
+
+#select{
+    font-family: "jaguar";
+    font-size: 20px;
+}
+.selector{
+    margin-left: 47%;
+}
+.database{
+    width: 100%;
+    height: 100%;
+    margin-left: 32px;
+    margin-top: 10px;
+}
+.divpokemon{
+    padding: 5px;
+    width: 198px;
+    height: 245px;
+    display: inline-block;
+    text-align: center;
+    margin:0px 8px 8px 8px;
+    border-radius: 10px;
+}
+
+img{
+    width: 70px;
+    height: 70px;  
+    margin-top: 10px;
+}
+.div-image{
+    background-color: antiquewhite;
+    border-radius: 50%;
+    width: 95px;
+    height: 95px;
+    margin-left: 45px;
+    margin-bottom: 10px;
+}
